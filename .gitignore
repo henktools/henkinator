@@ -1,0 +1,10 @@
+# Keys and such
+steam_api_stuff
+
+# Standard dot files and tmps
+.DS_Store
+._*
+tmp/*
+
+# configurations
+*.yml
